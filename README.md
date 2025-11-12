@@ -1,70 +1,29 @@
-Local Script Library - Figma Design Prompt
+Local Script Library - Figma Design
 Project Description
-A comprehensive Figma design prompt for a web application that collects and displays working userscripts from African communities. This prompt provides detailed specifications for creating a modern, community-focused platform for sharing browser scripts tailored to local needs.
+A comprehensive Figma design for a web application that collects and displays working userscripts from African communities. This provides detailed specifications for creating a modern, community-focused platform for sharing browser scripts tailored to local needs.
+
+ACCESS THE FIGMA FILES: https://www.figma.com/design/EOfAU6Qg1ksr4Nrjlcb5Vt/Local-Script-Library?node-id=0-1&t=Qbidml5i27sNues4-1
 
 🎯 Purpose
-This README explains the Figma design prompt for the "Local Script Library" - a web app designed to serve as a centralized platform where African developers and users can share, discover, and collaborate on userscripts that solve local problems and enhance regional websites.
+This README explains the Figma design for the "Local Script Library" - a web app designed to serve as a centralized platform where African developers and users can share, discover, and collaborate on userscripts.
 
-📋 What's Included in the Prompt
-Core Components
+📋 What's Included
 Complete project overview and vision statement
-
 Target audience analysis (script creators, users, moderators)
-
 Detailed user flows and key features
-
 Design specifications including color palette and typography
-
 Page-by-page requirements for all major screens
-
-Key Pages Designed
-Landing page with hero section and featured scripts
-
-Script library with advanced filtering
-
-Script detail pages with installation features
-
-User profile and submission workflows
-
-Authentication flows
-
-Design Specifications
-Color palette inspired by African aesthetics
-
-Typography guidelines (Inter, Open Sans)
-
-Mobile-responsive requirements
-
-Interactive prototype expectations
-
-Style guide deliverables
-
-🚀 How to Use This Prompt
-For Designers: Copy and paste this prompt into your Figma project brief
-
-For Developers: Use this as a reference for understanding the intended user experience
-
-For Project Managers: Leverage this detailed spec to ensure design alignment with project goals
 
 🌟 Key Features Outlined
 Community-driven script repository
-
 Localized content for African regions
-
 Safety and verification systems
-
 Modern, accessible UI/UX
-
 Mobile-responsive design
 
 📁 Project Relevance
-This prompt is ideal for:
-
+This is ideal for:
 UI/UX designers working on community platforms
-
 Developers building script repositories
-
 Projects focused on African tech ecosystems
-
-Open-source community platforms
-
+Open-source community platforms"
