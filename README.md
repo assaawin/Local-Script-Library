@@ -1,4 +1,4 @@
-# Local Script Library - Figma Design
+# Local Script Library  
 
 Local Script Library for a community-driven platform showcasing African-developed userscripts.
 
