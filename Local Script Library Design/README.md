@@ -1,12 +1,29 @@
+# Local Script Library - Figma Design
 
-  # Local Script Library Design
+Figma design files for a community-driven platform showcasing African-developed userscripts.
 
-  This is a code bundle for Local Script Library Design. The original project is available at 
-  https://www.figma.com/design/EOfAU6Qg1ksr4Nrjlcb5Vt/Local-Script-Library?node-id=0-1&t=og0V5FvpSSs17til-1
+## 🎯 Purpose
+A centralized platform where African developers and users can share, discover, and collaborate on browser userscripts tailored to local needs.
 
-  ## Running the code
+## 📋 What's Included
+- Complete project overview and vision statement
+- Target audience analysis (creators, users, moderators)
+- Detailed user flows and key features
+- Design specifications (color palette, typography)
+- Page-by-page requirements for all major screens
 
-  Run `npm i` to install the dependencies.
+## 🌟 Key Features
+- Community-driven script repository
+- Localized content for African regions
+- Safety and verification systems
+- Modern, accessible UI/UX
+- Mobile-responsive design
 
-  Run `npm run dev` to start the development server.
-  
+## 🎨 Access Design Files
+**Figma Link:** [https://www.figma.com/design/EOfAU6Qg1ksr4Nrjlcb5Vt/Local-Script-Library](https://www.figma.com/design/EOfAU6Qg1ksr4Nrjlcb5Vt/Local-Script-Library)
+
+## 📁 Ideal For
+- UI/UX designers working on community platforms
+- Developers building script repositories
+- Projects focused on African tech ecosystems
+- Open-source community platforms
