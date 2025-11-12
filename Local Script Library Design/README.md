@@ -1,7 +1,8 @@
 
   # Local Script Library Design
 
-  This is a code bundle for Local Script Library Design. The original project is available at https://www.figma.com/design/x6CUK03t61ZPWKvX3cDB6f/Local-Script-Library-Design.
+  This is a code bundle for Local Script Library Design. The original project is available at 
+  https://www.figma.com/design/EOfAU6Qg1ksr4Nrjlcb5Vt/Local-Script-Library?node-id=0-1&t=og0V5FvpSSs17til-1
 
   ## Running the code
 
