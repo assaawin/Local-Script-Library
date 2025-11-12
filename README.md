@@ -1,6 +1,6 @@
 # Local Script Library - Figma Design
 
-Figma design files for a community-driven platform showcasing African-developed userscripts.
+Local Script Library for a community-driven platform showcasing African-developed userscripts.
 
 ## 🎨 Access Design Files
 **Figma Link:** [https://www.figma.com/design/EOfAU6Qg1ksr4Nrjlcb5Vt/Local-Script-Library](https://www.figma.com/design/EOfAU6Qg1ksr4Nrjlcb5Vt/Local-Script-Library)
